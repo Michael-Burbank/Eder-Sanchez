@@ -3,7 +3,13 @@
     "ignorePaths": [],
     "dictionaryDefinitions": [],
     "dictionaries": [],
-    "words": [],
-    "ignoreWords": ["Eder",],
+    "words": [
+        "Cashapp",
+        "Linktree",
+        "Zelle"
+    ],
+    "ignoreWords": [
+        "Eder"
+    ],
     "import": []
 }
