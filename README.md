@@ -37,7 +37,3 @@ Tattoo Portfolio Personal Website
 8.	Instagram Widget (Optional):
 •Instagram Widget: Integration to display the latest Instagram posts directly on the website to enhance social media engagement.
 
-
-TASKS:
-Mike- Create repo-Github / Assist with Front/Back-End
-Natasha- Figma WireFrame => Design 
