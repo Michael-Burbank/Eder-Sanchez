@@ -1,5 +1,10 @@
 # Eder-Sanchez
 
+------READ------
+***
+Make sure to install Git LFS for the larger media file(s). Instructions below the Portfolio Website section.
+***
+
 Tattoo Portfolio Personal Website
 
 1. Website Sections:
@@ -37,3 +42,22 @@ Tattoo Portfolio Personal Website
 
 8. Instagram Widget (Optional):
     •Instagram Widget: Integration to display the latest Instagram posts directly on the website to enhance social media engagement.
+
+# Repo Instructions:
+
+Git LFS Setup for Large Files:
+    • Install Git LFS:
+      brew install git-lfs
+    • Initialize Git LFS in your repository:
+      git lfs install
+    • Track the large file `movie.mov` in the `Video` folder:
+      git lfs track "Video/movie.mov"
+    • Add the `.gitattributes` file to your repository:
+      git add .gitattributes
+    • Commit the changes:
+      git commit -m "Track movie.mov with Git LFS"
+    • Add and commit the large file:
+      git add Video/movie.mov
+      git commit -m "Add movie.mov"
+    • Push the changes to the remote repository:
+      git push origin main. \n
