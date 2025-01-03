@@ -1,11 +1,11 @@
 # Eder-Sanchez
 
-------READ------
+<!-- TODO!: READ -->
 ***
 Make sure to install Git LFS for the larger media file(s). Instructions below the Portfolio Website section.
 ***
 
-Tattoo Portfolio Personal Website
+<!-- TODO!: Tattoo Portfolio Personal Website -->
 
 1. Website Sections:
     •Hero Section: Brief intro about the tattoo artist.
@@ -43,7 +43,7 @@ Tattoo Portfolio Personal Website
 8. Instagram Widget (Optional):
     •Instagram Widget: Integration to display the latest Instagram posts directly on the website to enhance social media engagement.
 
-# Repo Instructions:
+<!-- TODO!: Repo Instructions: -->
 
 Git LFS Setup for Large Files:
     • Install Git LFS:
