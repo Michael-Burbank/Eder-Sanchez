@@ -45,6 +45,7 @@ Make sure to install Git LFS for the larger media file(s). Instructions below th
 
 <!-- TODO!: Repo Instructions: -->
 
+[Git LFS](https://git-lfs.com/)
 Git LFS Setup for Large Files:
     • Install Git LFS:
       brew install git-lfs
