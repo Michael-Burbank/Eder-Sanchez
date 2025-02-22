@@ -45,6 +45,8 @@ Make sure to install Git LFS for the larger media file(s). Instructions below th
 
 <!-- TODO!: Repo Instructions: -->
 
+## Install Git LFS
+
 [Git LFS](https://git-lfs.com/)
 Git LFS Setup for Large Files:
 
@@ -65,8 +67,8 @@ Using MacOS
     • Push the changes to the remote repository:
       git push origin main. \n
 
-Using Windows
-Install Git LFS:
+### Using Windows
+
     • Initialize Git LFS in your repository:
       git lfs install
     • Track the large file `movie.mov` in the `Video` folder:
